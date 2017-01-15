@@ -11,3 +11,10 @@ The robot was also able to follow a black line on the ground using a set of thre
 ## Object Avoidance
 The last capability of the robot was that it could avoid object in it's path using a sonar sensor. If an object was detected, the robot would continue
 to scan both the right and left directions, and determine which path was best.
+
+![Front View](https://github.com/AndyTertzakian/CellControlledRobot/blob/master/pics/FrontView.png)
+![Left View](https://github.com/AndyTertzakian/CellControlledRobot/blob/master/pics/LeftView.png)
+![Right View](https://github.com/AndyTertzakian/CellControlledRobot/blob/master/pics/RightView.png)
+![Top View](https://github.com/AndyTertzakian/CellControlledRobot/blob/master/pics/TopView.png)
+![Wiring Schematic](https://github.com/AndyTertzakian/CellControlledRobot/blob/master/pics/circuitWiring.png)
+
